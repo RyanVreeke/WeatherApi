@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dwMfiX35afc=",
+  "success": true,
+  "projectFilePath": "/Users/rvreeke/Development/AAB Payroll/WebApi/WebApi/WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/rvreeke/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "/Users/rvreeke/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
